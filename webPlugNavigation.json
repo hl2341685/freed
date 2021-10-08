@@ -496,6 +496,15 @@
       "click": true
     },
     {
+      "name": "哔嘀影视(Web)",
+      "pic": "",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.mp4er.com/",
+      "webOpen": true,https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg
+      "click": true
+    },
+    {
       "name": "奈非高清(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
