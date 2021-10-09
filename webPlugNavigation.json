@@ -187,12 +187,18 @@
         "navHtml": {
           "name": [
             "电影",
+            "动作片",
+            "喜剧片",
+            "科幻片",
             "连续剧",
             "综艺",
             "动漫"
           ],
           "cate": [
             "dianying",
+            "dongzuopian",
+            "xijupian",
+            "kehuanpian",
             "lianxuju",
             "zongyi",
             "dongman"
