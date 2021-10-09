@@ -490,8 +490,8 @@
       "name": "素白白(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "ads": "id=6933",
-      "webUrl": "https://www.subaibai.com/",
+      "ads": "",
+      "webUrl": "https://www.subaibai.com/new-movie",
       "webOpen": true,
       "click": true
     },
@@ -519,6 +519,15 @@
       "type": "webPlug",
       "ads": "",
       "webUrl": "http://www.tv8box.com/",
+      "webOpen": true,
+      "click": true
+    },
+     {
+      "name": "瓜皮TV(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "http://www.dijiaxia.com/",
       "webOpen": true,
       "click": true
     },
