@@ -505,6 +505,15 @@
       "click": true
     },
     {
+      "name": "电影牛(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.dianyingn.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "奈非高清(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
