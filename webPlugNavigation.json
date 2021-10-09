@@ -460,15 +460,6 @@
       "click": true
     },
     {
-      "name": "长资源(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.qianoo.cn/",
-      "webOpen": true,
-      "click": true
-    },
-    {
       "name": "1090(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
@@ -483,15 +474,6 @@
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://ddrk.me",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "素白白(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "ads": "",
-      "webUrl": "https://www.subaibai.com/new-movie/",
       "webOpen": true,
       "click": true
     },
