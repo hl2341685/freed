@@ -497,11 +497,11 @@
     },
     {
       "name": "哔嘀影视(Web)",
-      "pic": "",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "ads": "",
       "webUrl": "https://www.mp4er.com/",
-      "webOpen": true,https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg
+      "webOpen": true,
       "click": true
     },
     {
