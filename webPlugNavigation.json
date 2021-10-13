@@ -187,18 +187,12 @@
         "navHtml": {
           "name": [
             "电影",
-            "动作片",
-            "喜剧片",
-            "科幻片",
             "连续剧",
             "综艺",
             "动漫"
           ],
           "cate": [
             "dianying",
-            "dongzuopian",
-            "xijupian",
-            "kehuanpian",
             "lianxuju",
             "zongyi",
             "dongman"
@@ -289,9 +283,6 @@
           "name": [
             "国语配音",
             "热播电影",
-            "动作片",
-            "喜剧片",
-            "科幻片",
             "热播电视",
             "热播美剧",
             "国配外剧"
@@ -299,9 +290,6 @@
           "cate": [
             "gypy",
             "zuijinrebodianying",
-            "dongzuopian",
-            "xijupian",
-            "kehuanpian",
             "zuijinrebodianshiju",
             "rebomeiju",
             "guoyupeiyinhanju"
@@ -384,9 +372,6 @@
           "name": [
             "电影",
             "每日推荐",
-            "欢笑的喜剧",
-            "奇幻科幻",
-            "冒险动作",
             "电视剧",
             "热剧推荐",
             "动漫",
@@ -397,9 +382,6 @@
           "cate": [
             "1",
             "79",
-            "80",
-            "82",
-            "84",
             "2",
             "88",
             "4",
