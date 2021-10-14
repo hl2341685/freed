@@ -549,6 +549,15 @@
       "webOpen": true,
       "click": true
     },
+     {
+      "name": "Javhanven(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://javhaven.com/",
+      "webOpen": true,
+      "click": true
+    },
     {
       "name": "百度搜索(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
