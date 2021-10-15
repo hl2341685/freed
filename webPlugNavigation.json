@@ -305,16 +305,34 @@
           "name": [
             "国语配音",
             "热播电影",
+            "动作片",
+            "喜剧片",
+            "科幻片",
+            "战争片",
             "热播电视",
+            "国产剧",
+            "港台剧",
+            "韩剧",
+            "欧美剧",
             "热播美剧",
-            "国配外剧"
+            "国配外剧",
+            "热播动漫"
           ],
           "cate": [
             "gypy",
             "zuijinrebodianying",
+            "dongzuopian",
+            "xijupian",
+            "kehuanpian",
+            "zhanzhengpian",
             "zuijinrebodianshiju",
+            "guochanju",
+            "gangtaiju",
+            "rihanju",
+            "oumeiju",
             "rebomeiju",
-            "guoyupeiyinhanju"
+            "guoyupeiyinhanju",
+            "rebodongman"
           ],
           "page": "1"
         },
