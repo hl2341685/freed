@@ -568,7 +568,7 @@
       "name": "1090(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "ads": "",
+      "ads": "ad,http://pc.jinrongwang.net/pc_w/m_rich.js",
       "webUrl": "http://1090ys2.com/",
       "webOpen": true,
       "click": true
