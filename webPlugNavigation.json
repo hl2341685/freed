@@ -568,7 +568,7 @@
       "name": "1090(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
-      "ads": "ad,http://jg.zhuyonglawyer.com/stf/visitor.html?id=146&s=4690&c=76273",
+      "ads": "http://jg.zhuyonglawyer.com/stf/visitor.html?id=146&s=4690&c=76273",
       "webUrl": "http://1090ys2.com/",
       "webOpen": true,
       "click": true
