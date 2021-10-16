@@ -534,6 +534,7 @@
             "国产剧",
             "港台剧",
             "韩剧",
+            "日剧",
             "美剧",
             "综艺",
             "动漫",
@@ -551,6 +552,7 @@
             "2",
             "gangtaiju",
             "3",
+            "5",
             "4",
             "22",
             "dongman",
@@ -570,7 +572,7 @@
         },
         "html": {
           "episodes": {
-            "hasUrlPrefix": true,
+            "hasUrlPrefix": false,
             "isListItemAttr": true,
             "listCss": "li",
             "isMultiList": false,
