@@ -647,7 +647,7 @@
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "listCss": "ul > li",
+            "listCss": "div",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
