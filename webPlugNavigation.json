@@ -624,22 +624,34 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.subaibai.com/?s={kw}&submit=",
-        "nav_url": "https://www.subaibai.com/navCate/page/navPage",
+        "nav_url": "https://www.subaibai.com/movie_bt/navCate/page/navPage",
         "web_name": "素白白影视",
         "navHtml": {
           "name": [
-            "电影",
-            "电视剧",
-            "热门电影",
-            "高分电影",
-            "动漫电影"
+            "国产电影",
+            "欧美电影",
+            "印度电影",
+            "日韩电影",
+            "动漫电影",
+            "动漫剧",
+            "国产剧",
+            "港台剧",
+            "欧美剧",
+            "韩剧",
+            "日剧"
           ],
           "cate": [
-            "new-movie",
-            "dianshiju",
-            "hot-month",
-            "gf",
-            "dongmandy"
+            "guochandy",
+            "oumeidy",
+            "yindudy",
+            "rihandy",
+            "dongmandy",
+            "dongmanju",
+            "guochanju",
+            "gangju",
+            "oumeiju",
+            "hanju",
+            "riju",
           ],
           "page": "1"
         },
