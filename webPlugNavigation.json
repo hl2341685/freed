@@ -887,6 +887,17 @@
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
       "webOpen": true,
       "click": true
+     },
+      {
+      "name": "笔趣阁(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.znlzd.com/",
+      "webOpen": true,
+      "click": true
     }
   ]
 }
